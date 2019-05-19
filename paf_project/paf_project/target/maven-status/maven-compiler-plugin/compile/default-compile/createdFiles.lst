@@ -1,0 +1,3 @@
+com\paf\model\Registration.class
+com\paf\dao\RegistrationDao.class
+com\paf\controller\RegistrationController.class

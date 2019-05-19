@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;paf_project/src/main/webapp/WEB-INF/views/addUser.jsp&apos; to &apos;addRegistration.jsp&apos;" description="Rename resource &apos;addUser.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/addUser.jsp" name="addRegistration.jsp" stamp="1558283451638" updateReferences="true"/>
+</session>

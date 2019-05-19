@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+C:\Users\User\Desktop\paf_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1803222671.index
+\paf_project\src\main\java
+C:\Users\User\Desktop\paf_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2111343772.index
+\paf_project\src\main\resources
